@@ -48,4 +48,13 @@
 
 Bu projeler C # diline adımın temellerini oluşturan yapılardı, ilerleyen projelerde bu yapıları sık sık kulallanrak pekiştirmeyi hedefliyorum.</div>
 
+## 🎯Proje 9: Veri Tabanından Veri Çekme (Database Project)
+---
+<div style='text-align:justify;'>Ado.Net yaklaşımı kullanılarak database ile nasıl bağlantı kurulacağını ve tabloları linq sorgular ile nasıl çekebileceğimi öğrendim.</div>
+
+
+## 🎯Proje 10: Veri Tabanı İle Crud İşlemler(Database Crud)
+---
+<div style='text-align:justfy;'>Veri tabanı bağlantısı ile tablolar üzerinde temel Ekle, Sil, Güncelle, Listeleme İşlemlerini denemeler ile öğrendim. </div>
+
 
